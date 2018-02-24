@@ -1,0 +1,32 @@
+D:\vs_project\MySms4\MySms4\bin\Debug\MySms4.exe
+D:\vs_project\MySms4\MySms4\bin\Debug\MySms4.pdb
+D:\vs_project\MySms4\MySms4\obj\Debug\ResolveAssemblyReference.cache
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.Form1.resources
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.Properties.Resources.resources
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.csproj.GenerateResource.Cache
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.exe
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.pdb
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.AboutUs.resources
+D:\vs_project\MySms4\MySms4\obj\Debug\MySms4.Instructions.resources
+D:\vs_project\MySms4\MySms4\bin\Debug\IrisSkin2.dll
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.exe
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.pdb
+D:\vs_project\MySms4-1.13\MySms4\bin\Debug\MySms4.exe
+D:\vs_project\MySms4-1.13\MySms4\bin\Debug\MySms4.pdb
+D:\vs_project\MySms4-1.13\MySms4\bin\Debug\IrisSkin2.dll
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\ResolveAssemblyReference.cache
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.AboutUs.resources
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.Form1.resources
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.Instructions.resources
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.Properties.Resources.resources
+D:\vs_project\MySms4-1.13\MySms4\obj\Debug\MySms4.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.exe
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.pdb
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\bin\Debug\MySms4.exe
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\bin\Debug\MySms4.pdb
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.AboutUs.resources
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.Instructions.resources
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MySms4-1.14\MySms4\obj\Debug\MySms4.csproj.GenerateResource.Cache
