@@ -1,0 +1,19 @@
+d:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\ResolveAssemblyReference.cache
+d:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+d:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+d:\Visual Studio 2008\Projects\chatClient\chatClient\bin\Debug\chatClient.exe
+d:\Visual Studio 2008\Projects\chatClient\chatClient\bin\Debug\chatClient.pdb
+d:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\chatClient.exe
+d:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\chatClient.pdb
+D:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\chatClient.chatClientForm.resources
+D:\Visual Studio 2008\Projects\chatClient\chatClient\obj\Debug\chatClient.hostPortForm.resources
+D:\Visual Studio 2008\Projects\chatClient\chatClient\bin\Debug\IrisSkin2.dll
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\chatClient.chatClientForm.resources
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\chatClient.hostPortForm.resources
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\毕业设计作品\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
